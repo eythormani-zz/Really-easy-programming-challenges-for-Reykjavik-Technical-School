@@ -1,0 +1,6 @@
+C:\Users\EyþórMáni\Documents\Visual Studio 2015\Kóða Gólf\Dæmi 2\bin\Debug\Dæmi 2.exe.config
+C:\Users\EyþórMáni\Documents\Visual Studio 2015\Kóða Gólf\Dæmi 2\bin\Debug\Dæmi 2.exe
+C:\Users\EyþórMáni\Documents\Visual Studio 2015\Kóða Gólf\Dæmi 2\bin\Debug\Dæmi 2.pdb
+C:\Users\EyþórMáni\Documents\Visual Studio 2015\Kóða Gólf\Dæmi 2\obj\Debug\Dæmi 2.csprojResolveAssemblyReference.cache
+C:\Users\EyþórMáni\Documents\Visual Studio 2015\Kóða Gólf\Dæmi 2\obj\Debug\Dæmi 2.exe
+C:\Users\EyþórMáni\Documents\Visual Studio 2015\Kóða Gólf\Dæmi 2\obj\Debug\Dæmi 2.pdb
